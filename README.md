@@ -32,8 +32,4 @@ Our solution follows a comprehensive approach to AI-generated text detection:
 
 **Result Analysis:** The results are saved in a CSV file, allowing users to review and analyze the detected segments along with their confidence scores.
 
-## Contributing
 
-We welcome contributions from the community! Whether you're a seasoned developer, a data science enthusiast, or a domain expert, your insights and expertise can enhance our project. 
-
-Looking forward to get connect to some amazing peps out there!💃🏻
