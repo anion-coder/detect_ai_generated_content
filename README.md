@@ -8,7 +8,7 @@ AI-Generated Text Detection project! In this project, I present a robust solutio
 
 ## Introduction
 
-AI-generated content is becoming increasingly sophisticated, making it challenging to distinguish between genuine and computer-generated text. Our project aims to tackle this issue by leveraging the power of BERT (Bidirectional Encoder Representations from Transformers) to identify and flag AI-generated text segments. Whether you're dealing with chatbots, articles, or social media posts, our solution offers accurate detection, ensuring the authenticity of digital content.
+AI-generated content is becoming increasingly sophisticated, making it challenging to distinguish between genuine and computer-generated text. This project aims to tackle this issue by leveraging the power of BERT (Bidirectional Encoder Representations from Transformers) to identify and flag AI-generated text segments. Whether you're dealing with chatbots, articles, or social media posts, our solution offers accurate detection, ensuring the authenticity of digital content.
 
 ## Features
 
